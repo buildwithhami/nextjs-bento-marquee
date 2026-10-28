@@ -25,7 +25,7 @@ bento-marquee/
 ├── components/
 │   └── BentoMarquee.tsx     # Core marquee component logic
 ├── data/
-│   └── bentoData.json       # Column datasets and image links
+│   └── bentoData.json       # Column datasets and image assets
 └── README.md                # Documentation
 ```
 
