@@ -1,0 +1,83 @@
+{
+  "column1": [
+    {
+      "id": "c1-1",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1681426687411-21986b0626a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Tech Visual Showcase"
+    },
+    {
+      "id": "c1-2",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Bento Marquee Asset"
+    },
+    {
+      "id": "c1-3",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1683121716061-3faddf4dc504?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Tech Visual Showcase"
+    },
+    {
+      "id": "c1-4",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ771XEYszEKCR4P2k6lgll_ELJvzZymyautPjMInlXZA&s=10",
+      "imageAlt": "Tech Visual Showcase"
+    },
+    {
+      "id": "c1-5",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXyEejJJZ1zhxcPKqn0l3zk6M5xAeD3svV8aIUKQ_gw&s=10",
+      "imageAlt": "Full-Stack Architecture Visual"
+    }
+  ],
+  "column2": [
+    {
+      "id": "c2-1",
+      "imageUrl": "https://images.unsplash.com/photo-1700427296131-0cc4c4610fc6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Bento Marquee Asset"
+    },
+    {
+      "id": "c2-2",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1681426664478-b039637f29f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Tech Visual Showcase"
+    },
+    {
+      "id": "c2-3",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6YHBXrjdP_vnMX15ncXntXwPlWWEEXikKn0m_aVN8A&s=10",
+      "imageAlt": "React 15 Ecosystem Graphic"
+    },
+    {
+      "id": "c2-4",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1714618990464-bb4ddc34c542?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Full-Stack Architecture Visual"
+    },
+    {
+      "id": "c2-5",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9Ef3wCoT81Eg8MzTyaoRw0TARaajeb_ZagcAdNnMLw&s=10",
+      "imageAlt": "Tailwind CSS Interface Asset"
+    }
+  ],
+  "column3": [
+    {
+      "id": "c3-1",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1714618993404-1c25dd17afb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Bento Marquee Asset"
+    },
+    {
+      "id": "c3-2",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdycohGUI2LVSwKjyki_4JtPqEL4vrjdSvLHgK8GNFgQ&s=10",
+      "imageAlt": "Next.js Ecosystem Graphic"
+    },
+    {
+      "id": "c3-3",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1675059864144-25501ef0d77f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Tech Visual Showcase"
+    },
+    {
+      "id": "c3-4",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOIZCms-LxQtBX_rhx1Iqg3k_SaZGWuOhUXC3qZ2fjg&s=10",
+      "imageAlt": "TypeScript Code Matrix"
+    },
+    {
+      "id": "c3-5",
+      "imageUrl": "https://images.unsplash.com/photo-1782330300668-f85cb4d0fe6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "imageAlt": "Tech Visual Showcase"
+    }
+  ]
+}

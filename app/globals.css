@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@keyframes marquee-scroll {
+  from { transform: translate3d(0, 0, 0); }
+  to   { transform: translate3d(0, calc(var(--marquee-distance) * -1), 0); }
+}
+
+.marquee-track {
+  animation: marquee-scroll var(--marquee-duration, 30s) linear infinite;
+  will-change: transform;
+}
+
+.marquee-track[data-direction="down"] {
+  animation-direction: reverse;
+}
+
+.marquee-col {
+  contain: layout paint;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .marquee-col:hover .marquee-track {
+    animation-play-state: paused;
+  }
+}
