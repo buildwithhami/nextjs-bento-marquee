@@ -63,7 +63,7 @@ Cards are structured in three column arrays (`column1`, `column2`, `column3`). E
     {
       "id": "c1-1",
       "imageUrl": "https://plus.unsplash.com/premium_photo-1681426687411-21986b0626a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
-      "imageAlt": "Volumetric Vector Grid"
+      "imageAlt": "Tech Visual Showcase"
     }
   ]
 }
