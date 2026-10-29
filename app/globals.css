@@ -14,6 +14,10 @@
   animation-direction: reverse;
 }
 
+.marquee-track.paused {
+  animation-play-state: paused !important;
+}
+
 .marquee-col {
   contain: layout paint;
 }
